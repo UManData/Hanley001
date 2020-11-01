@@ -28,11 +28,6 @@
                 "exclude": "ok",
                 "record_id": "a-01-A-5426",
                 "uuid": "80730968-4b95-4639-9269-ea29b6e5dd08"
-            },
-            {
-                "exclude": "omit",
-                "record_id": "a-01-A-5427",
-                "uuid": "8095dd0b-3c67-4482-a334-279ad127ee2d"
             }
         ],
         "reviewed": true,
